@@ -16,7 +16,8 @@ SQL para análise e filtragem
 
 ## Como executar?
 clone este repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-instale as bibliotecas necessarias:
+git clone https://github.com/juliasantos16/Analise-de-dados-com-pandas-e-SQLite.git
+
+Instale as bibliotecas necessarias:
 pip install pandas sqlite3
 
