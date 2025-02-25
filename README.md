@@ -14,7 +14,9 @@ SQL para análise e filtragem
 ✅ Consultas SQL para filtrar dados relevantes
 ✅ Exportação dos resultados para um arquivo CSV
 
-## 📂 Estrutura do Projeto
-📁 dataset/ → Arquivos de dados brutos e processados
-📁 database/ → Banco de dados SQLite
-📄 Projeto-de-Analise-de-Dados-com-SQLite-e-Pandas.ipynb → Notebook com todas as análises
+## Como executar?
+clone este repositório:
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+instale as bibliotecas necessarias:
+pip install pandas sqlite3
+
